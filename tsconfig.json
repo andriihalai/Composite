@@ -10,7 +10,8 @@
     "rootDir": "./TypeScript",
     "allowSyntheticDefaultImports": true,
     "isolatedModules": true,
-    "pretty": true
+    "pretty": true,
+    "moduleDetection": "force"
   },
   "include": ["TypeScript/*.ts"],
   "exclude": ["node_modules"]
